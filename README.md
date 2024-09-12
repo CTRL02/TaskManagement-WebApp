@@ -2,6 +2,12 @@
 
 EfficientTaskManager is a comprehensive web application designed to help users manage their tasks effectively. It features secure authentication, user-friendly interfaces, and efficient data handling.
 
+## Introduction Video
+
+[![Watch the video](https://img.youtube.com/vi/6OEFkk3Gb_M/hqdefault.jpg)](https://youtu.be/6OEFkk3Gb_M)
+
+...
+
 ## Features
 
 - **JWT Authentication and Authorization**: Secure login and access control using JSON Web Tokens (JWT).
