@@ -1,0 +1,6 @@
+@alot_HostAddress = http://localhost:5260
+
+GET {{alot_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
